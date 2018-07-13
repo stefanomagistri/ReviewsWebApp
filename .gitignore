@@ -1,0 +1,14 @@
+.vs/
+.vscode/
+*/bin/
+*/obj/
+*.DotSettings.user
+*.DotSettings.user
+*.csproj.user
+*.suo
+*.orig
+packages/
+*/node_modules/
+*.pubxml.user
+*.userprefs
+*/dist/*.min.js

@@ -1,0 +1,26 @@
+{
+	"Reviews": [{
+		"Author": "John Smith",
+		"Date": "2018-07-11",
+		"ShipName": "Norwegian Breakaway",
+		"CruiseLine": "Norwegian Cruise Line",
+		"Rating": 4,
+		"Review": "We sailed from New York to the Bahamas and back during the Christmas period. Firstly the check in went wrong as my son had been booked with drinks package but he is only 17.. this causes havoc!! And took an hour to sort out whilst we stood there. We went straight for lunch when first boarding to the garden cafe which was busy noisy and then to our staterooms. We had an amazing guy looking after our rooms.. so friendly and accommodating called Benedict. On booking we had been told we had free wifi which we then found out was limited which caused no end of problems between my children!! Sad I know but my husband needed wifi for work too. The Internet cafe didn't work out either. In the free dining restaurants the menus were all the same which was most disappointing as we are vegetarians and they only had one choice per night. We were well looked after though but served meat on the last night by accident. Christmas Day was really disappointing too there wasn't a roast potato in sight apart from garlic diced ones."
+	},
+	{
+		"Author": "Jane Evans",
+		"Date": "2018-04-01",
+		"ShipName": "Norwegian Eclipse",
+		"CruiseLine": "Norwegian Cruise Line",
+		"Rating": 5,
+		"Review": "The ship was lovely lots going for it. Cabin nice also very clean ship. Bars and restaurants done out very nice and cosy. Downside to these type of ships they are getting to big and having to cue up for everything. Never cruised with NCL before, all they kept pushing is to gamble and spend more money on different things. Having spent a lot of money on getting all the extras like balcony, paying for granites upfront also drinks package which does not include water which I find hard except. Also having to pay extra in the other restaurants which were empty if they just included it with the price I think there would have not been so many cues all the time to eat."
+	},
+	{
+		"Author": "Scott Thomson",
+		"Date": "2018-05-12",
+		"ShipName": "Ventura",
+		"CruiseLine": "P&O",
+		"Rating": 3,
+		"Review": "Not as good as expected - could do better! Ventura - canary Island cruise 29/10/17 Super cabin - deluxe balcony with lounge, excellent cabin steward Enjoyed the quality and variety of the food Lisbon and Madera were lovely, took the tram ride and toboggan ride at these - very good (if not cheap) Generally poor service on ship (especially Saffron restaurant), staff looked disengaged, senior staff conspicuous in their absence around the ship Poor timing of entertainment in the evenings, lack of interesting daytime entertainment on sea days. Never once saw the hand rails being cleaned or staff enforcing hand sanitising - very worrying. Looks like I'll be returning to Thomson/TUI or whatever they are now calling themselves, as my previous four cruises with them were excellent"
+	}]
+}
