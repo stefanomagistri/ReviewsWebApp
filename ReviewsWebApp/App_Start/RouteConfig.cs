@@ -14,6 +14,11 @@ namespace ReviewsWebApp
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
+                name: "Reviews",
+                url: "Reviews/Page-{pageNumber}",
+                defaults: new { controller = "Review", action = "Index" }
+            );
+            routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Review", action = "Index", id = UrlParameter.Optional }

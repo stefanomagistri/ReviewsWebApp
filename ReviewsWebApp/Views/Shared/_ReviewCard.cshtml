@@ -1,0 +1,30 @@
+﻿@model ReviewsWebApp.Models.ReviewsViewModel
+
+@foreach (var review in Model.Reviews)
+{
+    <div class="card">
+        <div class="card-content">
+            <div class="media">
+                <div class="media-content">
+                    <p class="title is-4">@review.Author</p>
+                    <p class="subtitle is-6">
+                        @review.Date.ToString("dd MMM yyyy") |
+                        @review.ShipName |
+                        @review.CruiseLine |
+                        @for (int i = 1; i <= @review.Rating; i++)
+                        {
+                            <i class="fas fa-star"></i>
+                        }
+                        @for (int i = review.Rating + 1; i <= Model.TopRatingScore; i++)
+                        {
+                            <i class="far fa-star"></i>
+                        }
+                    </p>
+                </div>
+            </div>
+            <div class="content">
+                @review.Review
+            </div>
+        </div>
+    </div>
+}
